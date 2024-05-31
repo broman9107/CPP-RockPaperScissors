@@ -7,7 +7,7 @@ using namespace std;
 string UserInputLogic() {
 	while (true) {
 
-		cout << "RPS: " << endl;
+		cout << "Enter your choice: ";
 		char input;
 		cin >> input;
 

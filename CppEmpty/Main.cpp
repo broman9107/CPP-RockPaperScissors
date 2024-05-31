@@ -8,6 +8,9 @@ using namespace std;
 
 int main()
 {
+
+	cout << "Rock: r  Paper: s  Scissors: s  Quit: q" << endl;
+	cout << endl;
 	//Game loop
 	while (true) {
 
